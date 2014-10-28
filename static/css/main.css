@@ -1,0 +1,14 @@
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+#job-list {
+	position: relative;
+	top: 100px;
+}
+#job-list ul {
+	list-style: none;
+}
+footer {
+	position: relative;
+}
